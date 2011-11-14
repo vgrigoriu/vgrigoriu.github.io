@@ -1,0 +1,1 @@
+An experiment in publishing a site (a blog?) through Github.
