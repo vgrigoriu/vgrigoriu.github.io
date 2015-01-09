@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Review: The Educated Mind
 ---
 
 The Educated Mind, de Kieran Egan
